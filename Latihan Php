@@ -1,0 +1,17 @@
+Latihan Php
+
+-Array
+$a="a";
+$a=array ("a","b");
+$a=array (1=>array("hello","world"),
+			2=>array("a","b"));
+
+-Validation
+-Function
+-Date Time
+-OOP
+-DB Connection
+-File Upload
+
+HTML
+-Required
